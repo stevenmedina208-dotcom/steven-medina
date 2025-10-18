@@ -45,7 +45,7 @@ Courses include: Information Security, IT Project Management, Programming Logic 
 
 ### 📫 Contact Me
 
-- **Email:** [steven.medina@example.com](mailto:steven.medina@example.com)  
+- **Email:** [stevenmedina208@gmail.com](mailto:stevenmedina208@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)  
 - **Portfolio:** [https://your-username.github.io/portfolio/](https://your-username.github.io/portfolio/)
 
